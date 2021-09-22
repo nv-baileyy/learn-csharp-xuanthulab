@@ -1,0 +1,15 @@
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\Basic_Async_Await.exe
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\Basic_Async_Await.deps.json
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\Basic_Async_Await.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\Basic_Async_Await.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\Basic_Async_Await.dll
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\ref\Basic_Async_Await.dll
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\bin\Debug\net5.0\Basic_Async_Await.pdb
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.dll
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\ref\Basic_Async_Await.dll
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.pdb
+D:\CSharpLearningProcess\Basic_Async_Await\Basic_Async_Await\obj\Debug\net5.0\Basic_Async_Await.genruntimeconfig.cache
