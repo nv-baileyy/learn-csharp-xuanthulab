@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\Basic_ExceptionHandling.exe
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\Basic_ExceptionHandling.deps.json
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\Basic_ExceptionHandling.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\Basic_ExceptionHandling.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\Basic_ExceptionHandling.dll
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\ref\Basic_ExceptionHandling.dll
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\bin\Debug\net5.0\Basic_ExceptionHandling.pdb
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.dll
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\ref\Basic_ExceptionHandling.dll
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.pdb
+D:\CSharpLearningProcess\Basic_ExceptionHandling\Basic_ExceptionHandling\obj\Debug\net5.0\Basic_ExceptionHandling.genruntimeconfig.cache
