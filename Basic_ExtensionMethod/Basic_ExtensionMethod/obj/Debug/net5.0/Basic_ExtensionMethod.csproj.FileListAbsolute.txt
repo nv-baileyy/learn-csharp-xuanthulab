@@ -1,0 +1,15 @@
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\Basic_ExtensionMethod.exe
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\Basic_ExtensionMethod.deps.json
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\Basic_ExtensionMethod.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\Basic_ExtensionMethod.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\Basic_ExtensionMethod.dll
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\ref\Basic_ExtensionMethod.dll
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\bin\Debug\net5.0\Basic_ExtensionMethod.pdb
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.dll
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\ref\Basic_ExtensionMethod.dll
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.pdb
+D:\CSharpLearningProcess\Basic_ExtensionMethod\Basic_ExtensionMethod\obj\Debug\net5.0\Basic_ExtensionMethod.genruntimeconfig.cache
