@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\Basic_Anonymous.exe
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\Basic_Anonymous.deps.json
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\Basic_Anonymous.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\Basic_Anonymous.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\Basic_Anonymous.dll
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\ref\Basic_Anonymous.dll
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\bin\Debug\net5.0\Basic_Anonymous.pdb
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.dll
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\ref\Basic_Anonymous.dll
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.pdb
+D:\CSharpLearningProcess\Basic_Anonymous\Basic_Anonymous\obj\Debug\net5.0\Basic_Anonymous.genruntimeconfig.cache
