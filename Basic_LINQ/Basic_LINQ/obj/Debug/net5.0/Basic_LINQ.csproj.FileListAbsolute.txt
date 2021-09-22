@@ -1,0 +1,15 @@
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\Basic_LINQ.exe
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\Basic_LINQ.deps.json
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\Basic_LINQ.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\Basic_LINQ.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\Basic_LINQ.dll
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\ref\Basic_LINQ.dll
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\bin\Debug\net5.0\Basic_LINQ.pdb
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.dll
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\ref\Basic_LINQ.dll
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.pdb
+D:\CSharpLearningProcess\Basic_LINQ\Basic_LINQ\obj\Debug\net5.0\Basic_LINQ.genruntimeconfig.cache
