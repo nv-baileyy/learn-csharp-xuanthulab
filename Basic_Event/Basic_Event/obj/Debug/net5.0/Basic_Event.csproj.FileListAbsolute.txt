@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\Basic_Event.exe
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\Basic_Event.deps.json
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\Basic_Event.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\Basic_Event.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\Basic_Event.dll
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\ref\Basic_Event.dll
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\bin\Debug\net5.0\Basic_Event.pdb
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.dll
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\ref\Basic_Event.dll
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.pdb
+D:\CSharpLearningProcess\Basic_Event\Basic_Event\obj\Debug\net5.0\Basic_Event.genruntimeconfig.cache
