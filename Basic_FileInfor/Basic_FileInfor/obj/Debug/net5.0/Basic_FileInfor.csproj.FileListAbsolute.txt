@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\Basic_FileInfor.exe
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\Basic_FileInfor.deps.json
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\Basic_FileInfor.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\Basic_FileInfor.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\Basic_FileInfor.dll
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\ref\Basic_FileInfor.dll
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\bin\Debug\net5.0\Basic_FileInfor.pdb
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.dll
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\ref\Basic_FileInfor.dll
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.pdb
+D:\CSharpLearningProcess\Basic_FileInfor\Basic_FileInfor\obj\Debug\net5.0\Basic_FileInfor.genruntimeconfig.cache
