@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\Basic_Generic.exe
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\Basic_Generic.deps.json
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\Basic_Generic.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\Basic_Generic.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\Basic_Generic.dll
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\ref\Basic_Generic.dll
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\bin\Debug\net5.0\Basic_Generic.pdb
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.dll
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\ref\Basic_Generic.dll
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.pdb
+D:\CSharpLearningProcess\Basic_Generic\Basic_Generic\obj\Debug\net5.0\Basic_Generic.genruntimeconfig.cache
