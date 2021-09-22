@@ -1,0 +1,15 @@
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\Basic_QuaTaiToanTu.exe
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\Basic_QuaTaiToanTu.deps.json
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\Basic_QuaTaiToanTu.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\Basic_QuaTaiToanTu.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\Basic_QuaTaiToanTu.dll
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\ref\Basic_QuaTaiToanTu.dll
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\bin\Debug\net5.0\Basic_QuaTaiToanTu.pdb
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.dll
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\ref\Basic_QuaTaiToanTu.dll
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.pdb
+D:\CSharpLearningProcess\Basic_QuaTaiToanTu\Basic_QuaTaiToanTu\obj\Debug\net5.0\Basic_QuaTaiToanTu.genruntimeconfig.cache
