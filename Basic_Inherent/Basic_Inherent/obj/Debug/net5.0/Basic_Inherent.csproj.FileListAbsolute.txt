@@ -1,0 +1,15 @@
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\Basic_Inherent.exe
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\Basic_Inherent.deps.json
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\Basic_Inherent.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\Basic_Inherent.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\Basic_Inherent.dll
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\ref\Basic_Inherent.dll
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\bin\Debug\net5.0\Basic_Inherent.pdb
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.dll
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\ref\Basic_Inherent.dll
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.pdb
+D:\CSharpLearningProcess\Basic_Inherent\Basic_Inherent\obj\Debug\net5.0\Basic_Inherent.genruntimeconfig.cache
