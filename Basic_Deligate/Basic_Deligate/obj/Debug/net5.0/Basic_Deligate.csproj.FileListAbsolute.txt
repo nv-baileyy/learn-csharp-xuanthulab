@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\Basic_Deligate.exe
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\Basic_Deligate.deps.json
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\Basic_Deligate.runtimeconfig.json
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\Basic_Deligate.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\Basic_Deligate.dll
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\ref\Basic_Deligate.dll
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\bin\Debug\net5.0\Basic_Deligate.pdb
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.AssemblyInfo.cs
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.dll
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\ref\Basic_Deligate.dll
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.pdb
+D:\CSharpLearningProcess\Basic_Deligate\Basic_Deligate\obj\Debug\net5.0\Basic_Deligate.genruntimeconfig.cache
