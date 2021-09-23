@@ -1,0 +1,17 @@
+@{
+    Layout = "_MasterLayout";
+}
+
+<div class="row">
+    <div class="col-3 bg-success">
+        Menu Trai
+    </div>
+    <div class="col-9">
+        @RenderBody()
+    </div>
+</div>
+@* layout con, nhan va render thong tin tu cshtml, xong lai chuyen thanh session va gui cho layout chua no *@
+@section ThongtinFooter{
+    @* thong tin session ma cshtml gui se duoc nhan o day *@
+    @await RenderSectionAsync("Thongtinfooter", required: false)
+}
