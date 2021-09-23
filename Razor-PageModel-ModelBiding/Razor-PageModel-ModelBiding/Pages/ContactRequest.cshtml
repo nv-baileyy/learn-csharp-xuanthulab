@@ -1,0 +1,33 @@
+﻿@page "/Contact/{id:int?}"
+@model ContactRequestModel
+@{
+    ViewData["title"] = "Trang lien he";
+    var contact = Model.contact;
+    var contacts = Model.contacts;
+
+}
+<h1 class="display-4">Lien he</h1>
+<p class="lead"> Dien cac thong tin lien he</p>
+
+@Model.UserId
+
+<h1> @ViewData["TT"] </h1>
+
+@if (contact != null)
+{
+    foreach (var item in contact.GetType().GetProperties().ToList())
+    {
+        <p class="lead">  @item.Name : @item.GetValue(contact) </p>
+    }
+    <a asp-page="ContactRequest" asp-route-id="-1"> Quy lai danh sach </a>
+}
+else
+{
+    <ul>
+        @foreach (var item in Model._contacts.ListContacts())
+        {
+            <li> <a asp-page="ContactRequest" asp-route-id="@item.Id"> @item.Name </a> </li>
+        }
+    </ul>
+
+}
