@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@* @removeTagHelper ...  *@
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<a asp-page="ViewProduct" asp-route-id="3">
+    Xem san pham 3
+</a>
+
+@*loai bo tac dung cua TagHelper*@
+<!a asp-page="ViewProduct" asp-route-id="3">
+    Xem san pham 3
+</!a>
+
+@*// username in file Index.cshtml.cs *@
+<form action="/" method="post">
+
+    @*Nen goi cac tagHelper, han che goi cac code c#*@
+
+    @*lableTagHelper*@
+    <label asp-for="UserName"></label>
+    @*inputTagHelper*@
+    <input asp-for="UserName" />
+    <hr />
+
+    @Html.Label("UserName");
+    @Html.TextBox("UserName");
+</form>
