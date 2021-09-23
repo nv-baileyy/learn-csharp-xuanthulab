@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore", "EDCore\EFCore.csproj", "{A975D526-CA56-431A-AF1E-3D177EB45197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A975D526-CA56-431A-AF1E-3D177EB45197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A975D526-CA56-431A-AF1E-3D177EB45197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A975D526-CA56-431A-AF1E-3D177EB45197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A975D526-CA56-431A-AF1E-3D177EB45197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53ABF16-0335-49CF-BE9B-B7ACA8F98076}
+	EndGlobalSection
+EndGlobal
