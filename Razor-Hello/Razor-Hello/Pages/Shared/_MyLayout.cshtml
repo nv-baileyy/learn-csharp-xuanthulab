@@ -1,0 +1,17 @@
+@* them _ truoc layout de chi cho EndpointRoutingMiddlware khong su dung lam diem endpoint *@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["title"]</title>
+</head>
+<body>
+    <div style="background-color: blue;"> Phan HEADER</div>
+    @* Phan nao trong file _layout nay muon cac razor page khac chen vao *@
+    @* su dung renderBody() *@
+    @RenderBody()
+    <div style="background-color: green;"> Phan FOOTER</div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+@page "/trang-dau/{solanlap:int?}"
+@model FirstPageModel
+@{
+    @* Layout = "_MyLayout"; *@
+    ViewData["title"] = "Trang Dau Tien";
+}
+@* '?' tham so "solan co the co hoac khong" *@
+
+
+<h1> This is first Razor Page </h1>
+@{
+    string abc = "12fhka";
+}
+@* su dung tu khoa this de truy cap thuoc tinh/phuong thuc tu lop phat sinh *@
+<h1> @this.title</h1>
+@* su dung model  *@
+<h1> @Model.title</h1>
+@* truy cap bang viewadta *@
+<h1>@ViewData["mydata"]</h1>
+@* truy cap tu bien *@
+<h1>@abc</h1>
+<p> DateTimeNow: <strong> @System.DateTime.Now</strong> </p>
+@{
+    var a = 10;
+    var b = 20;
+    <p> sqrt of a: @Math.Sqrt(b) </p>
+    var solan = this.Request.RouteValues["solanlap"] ?? "0";
+    for (int i = 0; i < Int32.Parse(solan.ToString()); i++)
+    {
+        <li> Lan lap thu: @i</li>
+    }
+}
+<p> Sum of @a and @b is: @(a+b) </p>
+@functions {
+    public string title = "Xin chao, day la doan code demo de chay trong lop phat sinh";
+
+    // OnGet, OnGetAbc...
+    // OnPost(), OnPostAc...
+    // -> Handler
+    // Method OnGet() se duoc goi ngay dau tin khi vao FirstPage
+    public void OnGet()
+    {
+        Console.WriteLine("OnGet duoc goi");
+        ViewData["mydata"] = "This is ViewData demo";
+    }
+    // GET Url?handler=XYZ
+    public void OnGetXYZ()
+    {
+
+    }
+
+}
