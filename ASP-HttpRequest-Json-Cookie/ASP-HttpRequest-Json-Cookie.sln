@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP-HttpRequest-Json-Cookie", "ASP-HttpRequest-Json-Cookie\ASP-HttpRequest-Json-Cookie.csproj", "{973496D2-ECA8-4DBB-A669-DC43E549C0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973496D2-ECA8-4DBB-A669-DC43E549C0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973496D2-ECA8-4DBB-A669-DC43E549C0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973496D2-ECA8-4DBB-A669-DC43E549C0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973496D2-ECA8-4DBB-A669-DC43E549C0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CED97DA-75A9-4C00-8DE5-A20B8D3CCD24}
+	EndGlobalSection
+EndGlobal
