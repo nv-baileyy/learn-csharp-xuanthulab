@@ -1,0 +1,16 @@
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\Type_Attributes.exe
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\Type_Attributes.deps.json
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\Type_Attributes.runtimeconfig.json
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\Type_Attributes.runtimeconfig.dev.json
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\Type_Attributes.dll
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\ref\Type_Attributes.dll
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\bin\Debug\net5.0\Type_Attributes.pdb
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.csproj.AssemblyReference.cache
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.AssemblyInfoInputs.cache
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.AssemblyInfo.cs
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.csproj.CoreCompileInputs.cache
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.dll
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\ref\Type_Attributes.dll
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.pdb
+D:\CSharpLearningProcess\Type_Attributes\Type_Attributes\obj\Debug\net5.0\Type_Attributes.genruntimeconfig.cache
