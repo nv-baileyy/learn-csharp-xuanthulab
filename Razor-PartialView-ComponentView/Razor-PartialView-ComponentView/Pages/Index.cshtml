@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@using NS_Product
+@{
+    ViewData["Title"] = "Home page";
+    ViewData["titlemsg"] = "Cac san pham moi";
+    ViewData["content"] = "ban dang xem cac san pham moi";
+}
+
+@await Html.PartialAsync("_Message")
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    var product1 = new Product() { Name = "Iphone", Description = "Smpartphone", Price = 1000 };
+    var product2 = new Product() { Name = "Samsung", Description = "Smpartphone", Price = 1000 };
+    var product3 = new Product() { Name = "Nokia", Description = "Smpartphone", Price = 1000 };
+}
+
+<div class="row bg-info">
+    <div class="col">
+        @* // insert partial form _ProductItem.cshtml in /Shared *@
+        <partial name="_ProductItem" model="product1" />
+    </div>
+    <div class="col">
+        @* Su dung HtmlHelper *@
+        @await Html.PartialAsync("_ProductItem", product2)
+    </div>
+    <div class="col">
+        @* Su dung HtmlHelper, phai duoc dat trong kho code c# *@
+        @{
+            await Html.RenderPartialAsync("_ProductItem", product3);
+        }
+    </div>
+</div>
+<div class="row bg-warning">
+    @{
+        var ps = new List<Product>{
+    new Product() { Name = "sp1", Description = "Smpartphone", Price = 1000 },
+    new Product() { Name = "sp2", Description = "Smpartphone", Price = 1000 },
+    new Product() { Name = "sp3", Description = "Smpartphone", Price = 1000 }
+    };
+        foreach (var item in ps)
+        {
+            @* <partial name="_ProductItem" model="item" /> *@
+            await Html.RenderPartialAsync("_ProductItem", item);
+        }
+    }
+
+</div>
+
+@* component duoc luu o:
+    /Pages-Views/Shared/Component/{view component name}
+    /views/controllername/component/{view component name} *@
+
+@* thuc thi va chen component chi dinh  *@
+
+@await Component.InvokeAsync("ProductBox", true)

@@ -1,0 +1,17 @@
+@* partial view nen khong co chi thi @page *@
+@* 
+    margin theo chieu y -> my-4, chieu x -> mx-4 
+    buttonsmall: btn-sm
+    color secondary -> btn-secondary
+*@
+@using NS_Product
+@model Product
+
+<div class="card my-4 mx-2" style="width: 20rem; display: inline-block">
+    <h2 class="card-header text-info" >@Model.Name</h2>
+    <div class="card-body">
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text"> Gia: @Model.Price</p>
+        <a href="" class="btn btn-secondary btn-sm">Dat hang</a>
+    </div>
+</div>

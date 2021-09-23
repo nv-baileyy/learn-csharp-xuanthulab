@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\haiva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\haiva\\.nuget\\packages"
+    ]
+  }
+}
