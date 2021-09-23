@@ -1,0 +1,2 @@
+1. Install package: dotnet add package Mailkit // server
+2. Install package: dotnet add package Mimekit // mail message
