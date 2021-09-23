@@ -1,0 +1,8 @@
+dotnet new tool-manifest # if you are setting up this repo
+dotnet tool install --local dotnet-sql-cache --version 5.0.10
+
+// create db cache in sql server
+
+dotnet sql-cache create "Data Source=DESKTOP-TMG5088;Initial Catalog=webdb;Integrated Security=True" dbo Session
+
+dotnet add package Microsoft.Extensions.Caching.SqlServer
