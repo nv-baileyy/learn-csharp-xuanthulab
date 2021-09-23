@@ -1,0 +1,59 @@
+﻿@*
+    - @bieuthuc @(bieuthuc) -> HTML (encode) < -> &lt, > -> &gt
+    - Html.Raw(string)
+    - @{ }
+    - Code C#
+    - Mo the HTML -> Xuat HTML
+    - Phuong thuc cuc bo
+    - // Dont export to HTML - Using <text> tag orr @variable:
+    - @if, @foreach,...
+    - @functions {
+        Member: Method, Property, Field,...
+    }
+    - @page "url"
+*@
+@page "/trangchu"
+@model IndexModel
+@using Razor_Syntax.Pages
+@* @namespace  *@
+@{
+    ViewData["Title"] = "Home page";
+    var xinchao = "<div class='alert alert-danger'> xin chao all</div>";
+}
+
+<div class="display-4 text-danger">
+    Lession: Razor Syntax - @this.title
+</div>
+<ul>
+    <li> On model: @Model.AAA</li>
+    <li> @(5+6) </li>
+    <li> @(Math.PI) </li>
+    <li> @("<h1> hello my crush </h1>")</li> @* Encode *@
+    <li> @Html.Raw("<h1> hello my crush </h1>")</li> @* Not Encode *@
+    <li> @Html.Raw(xinchao)</li>
+</ul>
+<hr>
+@{
+    var greeting = "Hellu you, ";
+    void Xinchao(string name)
+    {
+        var msg = greeting + name;
+        <p> @msg </p>
+    }
+}
+
+@functions{
+    string title = "vang=hainguyen";
+}
+
+@{
+    Xinchao("Hai Nguyen");
+    // Dont export to HTML - Using <text> tag / @: ...
+    string[] abc = { "IPHONE", "SAMSUNG", "NOKIA" };
+    foreach (var str in abc)
+    {
+        <text> @str </text>
+        @: @str
+        <hr>
+    }
+}
